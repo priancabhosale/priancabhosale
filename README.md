@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanka Bhosale-More
 - 👀 I’m a research scholar at Lovely Professional University,Punjab
-- 🌱 I’m currently learning Optimization algorithms.
+- 🌱 I’m currently learning Metaheuristic Optimization algorithms.
 - 📫 You can email me on : prianca.bhosale@gmail.com
 
 <!---
